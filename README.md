@@ -221,4 +221,3 @@ Sistem ini menerapkan:
 - Role-based API Security
 - Prisma ORM
 
-Sangat cocok untuk UAS, portfolio, atau backend inventori profesional.
